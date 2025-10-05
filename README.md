@@ -1,6 +1,6 @@
 I worked with the USGS Earthquakes dataset (1930–2025) from Kaggle and focused on the period 2015–2025, performing:
 1-Data Cleaning & Preprocessing – handled missing values, formatted data, and prepared it for analysis.
-2-Visualization – explored earthquake patterns, magnitudes, and distribution over time.
+2-Visualization – explored earthquake patterns, magnitudes, depth, longitude, latitude and distribution over time.
 3-Prediction Models – applied multiple models including:
 Prophet for time series forecasting
 Random Forest for predictive analysis
